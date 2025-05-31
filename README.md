@@ -41,7 +41,7 @@ The project showcases a beautifully crafted landing page designed for **Serene S
 ## 📁 Folder Structure
 
 ```plaintext
-master/
+main/
 ├── public/
 ├── src/
 │   ├── components/
