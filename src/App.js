@@ -3,7 +3,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import './App.css'; // Import global styles here
 
-import DarkModeToggle from './DarkModeToggle';
+
 import HeroSection from './Components/HeroSection';
 import FeaturesSection from './Components/FeaturesSection';
 import GallerySection from './Components/GallerySection';
@@ -25,7 +25,7 @@ function App() {
 
   return (
     <>
-      <DarkModeToggle />
+   
   
       <main>
         <section id="hero"><HeroSection /></section>
